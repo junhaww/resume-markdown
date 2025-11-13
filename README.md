@@ -33,3 +33,7 @@
 | Name | Award | News Article | Notes |
 |------|-------|--------------|-------|
 | 2025 단국 창업해커톤 경진대회 | 대상 | [Link](https://www.dankook.ac.kr/web/kor/-550?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=1&_dku_bbs_web_BbsPortlet_sKeyword=해커톤&_dku_bbs_web_BbsPortlet_sKeyType=title&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=157508) | Project: Rapport |
+
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhaww&show_icons=true&theme=default)
