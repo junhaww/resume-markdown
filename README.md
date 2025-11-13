@@ -1,5 +1,5 @@
 # 💬 About Me
-<p align="center">
+<p align="left">
   <img src="./template.svg" alt="About Me" />
 </p>
 
