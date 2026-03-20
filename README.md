@@ -1,9 +1,4 @@
-# 💬 About Me
-<p align="left">
-  <img src="./template.svg" alt="About Me" />
-</p>
 
----
 
 # 💻 Tech Stack
 
